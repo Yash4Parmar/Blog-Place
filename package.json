@@ -1,6 +1,6 @@
 {
-  "homepage": "https://yash4parmar.github.io/Blog-Place",
-  "name": "Blog-Place",
+  "homepage": "https://yash4parmar.github.io/Blog-Place/",
+  "name": "my-blog-site",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
