@@ -3,26 +3,20 @@
     {
       "title": "Tech Blog",
       "body": "The blog publishes content on businesses related to tech, analysis of emerging trends in tech, technology news, and listings of new tech products in the market. It is one of the first publications to report broadly on tech startups and funding rounds.TechCrunch offers knowledge about new gizmos and business-related apps. It is like a reservoinformation on Internet companies & startups around the world",
-      "author": "Yash Parmar",
+      "author": "Yash",
       "id": 1
     },
     {
-      "title": "Non Tech Blog",
-      "body": "The blog publishes content on businesses related to tech, analysis of emerging trends intech, technology news, and listings of new tech products in the market. It is one of the firstpublications to report broadly on tech startups and funding rounds. TechCrunch offers knowledge about new gizmos and business-related apps. It is like a reservoir of information on Internet companies & startups around the world",
-      "author": "Soham",
+      "title": "Hacking Tutorial",
+      "body": "During the last 3 months it was more quiet than usual on Hacking Tutorials. In this period less tutorials and articles were publish on Hacking Tutorials but there was a very good reason for that. For the last 3 months I have followed Offensive Security’s Penetration testing with Kali Linux (PWK) course and got certified as OSCP. In this article I will be reviewing the courseware, the labs and the brutal 24 hour exam. We will also look at which prior knowledge would be beneficial during the course and how to get this knowledge. We will conclude this article with some tips and hints that helped me passing the exam. OSCP courseware and videos The Penetration testing with Kali Linux courseware contains a PDF file and instruction videos on all subjects. The course covers many different subjects such as passive and active information gathering with many different tools but also writing simple buffer…",
+      "author": "John",
       "id": 2
     },
     {
-      "title": "Hacking Tutorial",
-      "body": "The blog publishes content on businesses related to tech, analysis of emerging trends in tech, technology news, and listings of new tech products in the market. It is one of the first publications to report broadly on tech startups and funding rounds.TechCrunch offers knowledge about new gizmos and business-related apps. It is like a reservoinformation on Internet companies & startups around the world",
-      "author": "John",
-      "id": 3
-    },
-    {
       "title": "Javascript tutorial",
-      "body": "asnasas\nasfa\nsf\nasf\nafs\nasf\nafa\nsf\nasf\na\nfa\nssfa\nsfa\nsfa\nsfa\nsfa\nfa\nfafa\n",
+      "body": "JavaScript is Everywhere. Millions of web pages are built on JavaScript and it’s not going anywhere at least for now. On one side HTML and CSS give styling to the web pages but on the other side, it’s the magic of JavaScript that makes your web page alive. Today this language is not just limited to your web browser. You can also use it for server-side applications. Isn’t it cool to use a single language for both client-side and server-side applications? A single language fulfills both of the purposes and this is the main reason TON of job posting is there for javascript developers in the tech industry. ",
       "author": "Anonymous writer",
-      "id": 4
+      "id": 3
     }
   ]
 }
