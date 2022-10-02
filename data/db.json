@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Tech Blog",
+      "body": "The blog publishes content on businesses related to tech, analysis of emerging trends in tech, technology news, and listings of new tech products in the market. It is one of the first publications to report broadly on tech startups and funding rounds.TechCrunch offers knowledge about new gizmos and business-related apps. It is like a reservoinformation on Internet companies & startups around the world",
+      "author": "Yash Parmar",
+      "id": 1
+    },
+    {
+      "title": "Non Tech Blog",
+      "body": "The blog publishes content on businesses related to tech, analysis of emerging trends intech, technology news, and listings of new tech products in the market. It is one of the firstpublications to report broadly on tech startups and funding rounds. TechCrunch offers knowledge about new gizmos and business-related apps. It is like a reservoir of information on Internet companies & startups around the world",
+      "author": "Soham",
+      "id": 2
+    },
+    {
+      "title": "Hacking Tutorial",
+      "body": "The blog publishes content on businesses related to tech, analysis of emerging trends in tech, technology news, and listings of new tech products in the market. It is one of the first publications to report broadly on tech startups and funding rounds.TechCrunch offers knowledge about new gizmos and business-related apps. It is like a reservoinformation on Internet companies & startups around the world",
+      "author": "John",
+      "id": 3
+    },
+    {
+      "title": "Javascript tutorial",
+      "body": "asnasas\nasfa\nsf\nasf\nafs\nasf\nafa\nsf\nasf\na\nfa\nssfa\nsfa\nsfa\nsfa\nsfa\nfa\nfafa\n",
+      "author": "Anonymous writer",
+      "id": 4
+    }
+  ]
+}

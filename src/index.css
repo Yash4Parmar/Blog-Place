@@ -1,13 +1,122 @@
-body {
+/* @import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap'); */
+
+/* base styles */
+* {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  color: #333;
 }
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
+.navbar {
+  padding: 20px;
+  display: flex;
+  align-items: center;
+  max-width: 600px;
+  margin: 10px auto;
+  border-bottom: 1px solid #9CC3D5FF;
+}
+
+.navbar h1 {
+  color: #0063B2FF;
+}
+
+.navbar .links {
+  padding: 30px;
+  margin-left: 50px;
+  display: block;
+}
+
+.navbar a {
+  margin-left: 80px;
+  text-decoration: none;
+  padding: 6px;
+}
+
+.navbar a:hover {
+  color: #0063B2FF;
+}
+
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+
+}
+
+.blog-preview {
+  padding: 10px, 16px;
+  margin: 60px 0;
+  border-bottom: 1px solid #fafafa;
+}
+
+.blog-preview:hover {
+  box-shadow: 1px 3px 5px rgba(0, 0, 0, 0.3);
+}
+
+.blog-preview h2 {
+  font-size: 20px;
+  color: #0063B2FF;
+  margin-bottom: 10px;
+}
+
+.blog-preview a {
+  text-decoration: none;
+}
+
+/* Blog details */
+.blog-details h2 {
+  font-size: 20px;
+  color: #0063B2FF;
+  margin-bottom: 15px;
+}
+
+.blog-details div {
+  margin: 20px 0;
+}
+
+.blog-details button {
+  background: #0063B2FF;
+  color: #fafafa;
+  border: 0;
+  padding: 10px;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+/* create blog form */
+.create {
+  max-width: 400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.create label {
+  text-align: left;
+  display: block;
+}
+
+.create h2 {
+  font-size: 20px;
+  color: #0063B2FF;
+  margin-bottom: 30px;
+}
+
+.create input,
+.create textarea,
+.create select {
+  width: 100%;
+  padding: 6px 10px;
+  margin: 10px 0;
+  border: 1px solid #9CC3D5FF;
+  box-sizing: border-box;
+  display: block;
+}
+
+.create button {
+  background: #0063B2FF;
+  color: #9CC3D5FF;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
 }
